@@ -45,8 +45,8 @@ Home.defaultProps = {
 };
 
 Home.propTypes = {
-  name: PropTypes.string.isRequired,
-  title: PropTypes.string.isRequired,
+  name: "Pablo Uceda Fuentes", //PropTypes.string.isRequired,
+  title: "Estudiante de Informática",//PropTypes.string.isRequired,
 };
 
 export default Home;
